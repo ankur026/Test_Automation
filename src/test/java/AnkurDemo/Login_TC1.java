@@ -1,7 +1,11 @@
-package Ankur_Demo.Ankur_Demo;
+package AnkurDemo;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+
+import Ankur_Demo.Ankur_Demo.Dashboard;
+import Ankur_Demo.Ankur_Demo.HomePage;
+import Ankur_Demo.Ankur_Demo.LoginPage;
 
 
 public class Login_TC1 {

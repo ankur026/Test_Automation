@@ -1,4 +1,4 @@
-package Ankur_Demo.Ankur_Demo;
+package AnkurDemo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
