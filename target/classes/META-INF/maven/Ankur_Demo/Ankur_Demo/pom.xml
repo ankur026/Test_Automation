@@ -28,6 +28,12 @@
     <classifier>no_aop</classifier>
     <scope>provided</scope>
 </dependency>
+<dependency>
+  <groupId>junit</groupId>     <!-- NOT org.junit here -->
+  <artifactId>junit-dep</artifactId>
+  <version>4.8.2</version>
+  <scope>test</scope>
+</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
